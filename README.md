@@ -1,3 +1,4 @@
+![](https://iconce.com/api/v1?type=text&w=390&h=35&value=我跨越过时代，如兽般的姿态&animate=true&fillType=Linear&primaryColor=%23FC466B&secondaryColor=%233F5EF)
 - 🔭 I’m currently studying in ？University
 
 
