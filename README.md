@@ -1,18 +1,24 @@
 ## About Me
 * 18 years old
 * 2024级网络空间安全专业大一学生，但是目前没有在打CTF...    
-* 喜欢折腾Linux和Server，Docker，Proxy，AI-API......     
+* 喜欢折腾Linux和Server，Docker，Proxy，AI-API......
+
+![okokokokok](https://github.com/user-attachments/assets/969cc79e-0bc0-4ef4-a2b8-ff95049b6fa8)
+
+## My Project    
+1. [API-Proxy-NG](https://github.com/KipJayChou/api-proxy-ng)    
+   Proxying AI-API for Openai、Gemini、Grok、Perplexity
+2. [HackerNews-Proxy](https://github.com/KipJayChou/hackernews-proxy)    
+   Proxying news.ycombinator.com    
+3. [JXUFE-ICU](https://github.com/KipJayChou/jxufe-icu)    
+   HTML website For My Community   
+
 ## 联系方式       
 📮邮箱: jaychou070220@outlook.com     
 ✈️telegram: https://t.me/KipJayChou    
  
 ## 关注我：
-[X](https://x.com/kipjay_chou)     
-[Discourse](https://jxufe.icu/u/jay/summary)      
-[Misskey](https://misskey.jxufe.icu/@jay)      
-[Linux.do](https://linux.do/u/user695/summary)      
-[爱发电](https://www.youtube.com/watch?v=dQw4w9WgXcQ)      
-[telegram_Channel](https://t.me/+11aVZOyAbT1mMTVl)      
+[X](https://x.com/kipjay_chou)     [Discourse](https://jxufe.icu/u/jay/summary)      [Misskey](https://misskey.jxufe.icu/@jay)      [Linux.do](https://linux.do/u/user695/summary)      [爱发电](https://www.youtube.com/watch?v=dQw4w9WgXcQ)      [telegram_Channel](https://t.me/+11aVZOyAbT1mMTVl)      
 
 ## 个人网站    
    详细请查看我的[探针](https://status.jxufe.icu/status/jxufe-icu)    
@@ -27,17 +33,6 @@
 
 <div align="center">
     <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=KipJayChou&layout=compact" />
-</div>
-
-## My Project    
-1. [API-Proxy-NG](https://github.com/KipJayChou/api-proxy-ng)    
-   Proxying AI-API for Openai、Gemini、Grok、Perplexity
-2. [HackerNews-Proxy](https://github.com/KipJayChou/hackernews-proxy)    
-   Proxying news.ycombinator.com    
-3. [JXUFE-ICU](https://github.com/KipJayChou/jxufe-icu)    
-   HTML website For My Community    
-## Related
-
-![okokokokok](https://github.com/user-attachments/assets/969cc79e-0bc0-4ef4-a2b8-ff95049b6fa8)
+</div> 
 
 
